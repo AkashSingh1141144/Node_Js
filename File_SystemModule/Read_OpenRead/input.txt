@@ -1,0 +1,1 @@
+Node.js provides a built-in module called fs (File System) that allows you to work with the file system on your computer. You can use this module to perform various operations like reading from files, writing to files, creating directories, deleting files, etc.
