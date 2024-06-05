@@ -33,3 +33,8 @@ End the response using 'response.end()'.
 Send and HTTP request to a server using 'http.request()'
 Receive a response from a server using the 'response' event 
 'http.clientRequest'  object returned by 'http.request()'
+
+# What are frameworks
+A frameworks is a software tool or platform that provides developers with a set of pre-written code, components, and libraries that they can use to build applications.
+Frameworks often include a set of guidelines and best practices that help developers to write code more efficiently and to build applications that are more stable, secure, and scalable.
+Some popular web development framework include Ruby on Rails, Django, Laraval, React, Angular, And Vue.js.
