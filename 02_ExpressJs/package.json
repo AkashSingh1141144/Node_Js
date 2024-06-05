@@ -1,0 +1,14 @@
+{
+  "name": "02_expressjs",
+  "version": "1.0.0",
+  "description": "In computer networking, a port is a logical constuct that is used to identify a specific process or service running on a computer or other networked device.\r Each port is associated with a unique number, called a port number, which allows data to be routed to the correct application or service.\r A port address, and the type of transport protocol used for communication an IP address, and the type of transport protocol used for communication.\r Specific port numbers are reserved to identify specific services so that arriving packet can be easily forwarded to a running application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
